@@ -28,5 +28,4 @@ It demonstrates how to manage and store order details in a database.
 
 ---
 
-BASE zomato;
-   USE zomato;
+
